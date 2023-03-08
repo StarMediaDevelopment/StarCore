@@ -1,0 +1,6 @@
+main: com.starmediadev.plugins.starcore.StarCore
+version: ${project.version}
+name: StarCore
+api-version: 1.19
+description: The main Spigot based plugin for Star Media Development
+author: Firestar311
