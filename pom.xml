@@ -93,6 +93,12 @@
             <version>${minecraft.version}</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.starmediadev</groupId>
+            <artifactId>starsql</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
     <distributionManagement>
         <repository>
